@@ -1,0 +1,2 @@
+-- Active: 1773422227617@@127.0.0.1@3306
+SELECT * FROM funcionarios INNER JOIN funcionarios_area ON funcionarios.id = funcionarios_area.funcionarios_id INNER JOIN area ON area.id = funcionarios_area.area_id;

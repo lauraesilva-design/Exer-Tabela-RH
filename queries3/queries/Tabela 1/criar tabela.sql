@@ -1,0 +1,12 @@
+-- Active: 1773422227617@@127.0.0.1@3306
+CREATE TABLE funcionarios(
+    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+   Nome TEXT NOT NULL,
+   Idade INTEGER NOT NULL,
+   Cpf INTEGER NOT NULL,
+   Telefone INTEGER NOT NULL
+
+   
+);
+ALTER TABLE funcionarios ADD funcionarios_id TEXT;
+ALTER TABLE funcionarios DROP COLUMN funcionarios_id;

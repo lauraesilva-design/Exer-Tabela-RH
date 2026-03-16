@@ -23,13 +23,13 @@ Este repositório contém o projeto desenvolvido para a disciplina de Banco de D
 - *Relação 1xN entre 2 tabelas
 - *Relação NxN entre 2 tabelas (adicionar tabela intermediária)
 - *1 script para criar cada tabela
-- 1 script para consulta de cada tabela
+- *1 script para consulta de cada tabela
 - *1 script para consulta das tabelas com relação 1xN
 - *1 script para consulta das tabelas com relação NxN
-- 1 script para inserção de dados de cada tabela
-- 1 script para consulta de cada tabela utilizando uma coluna como filtro
-- 1 script para receber a quantidade de informações salvas de cada tabela
+- *1 script para inserção de dados de cada tabela
+- *1 script para consulta de cada tabela utilizando uma coluna como filtro
+- *1 script para receber a quantidade de informações salvas de cada tabela
 
 ## Aluno
 
-- Nome
+- Laura Eloísa Fernandes da Silva
